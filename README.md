@@ -30,14 +30,15 @@ Buscando minha primeira oportunidade como desenvolvedor backend ou focado em sol
 
 ## 📌 Projetos em destaque
 
-🚧 Em construção...
+### 📓 [Estudos de Python com NotebookLM](https://github.com/VyktorHDs/dio-notebooklm-python-study)
+Projeto desenvolvido durante o bootcamp da DIO para explorar o potencial do NotebookLM (Google) como ferramenta de suporte no aprendizado de Python e Inteligência Artificial.
+- **Foco:** Organização de conhecimento, análise de fontes e suporte ao estudo de lógica de programação.
+- **Tecnologias:** IA Generativa, NotebookLM, Python.
 
-> Em breve você verá aqui projetos focados em:
+> Em breve você verá aqui também:
 - APIs RESTful com Django/FastAPI
 - Automações e Scripts inteligentes
-- Integrações com IAs Generativas
 - Análise e manipulação de dados
-- Testes unitários e qualidade de código
 
 ---
 
@@ -63,4 +64,4 @@ Conseguir minha primeira oportunidade como desenvolvedor Python e evoluir para a
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1Hate&theme=high-contrast)](https://github.com/1Hate/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VyktorHds&theme=high-contrast)](https://github.com/VyktorHDs/github-readme-activity-graph)
