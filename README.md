@@ -2,28 +2,29 @@
 
 # 👨‍💻 Victor Henrique
 
-🚀 Desenvolvedor Backend Java em formação | Spring Boot | APIs REST | SQL
+🚀 Desenvolvedor Python em formação | Django & Flask | Inteligência Artificial | Dados
 
 ---
 
 ## 🧠 Sobre mim
 
-Estou em transição para a área de tecnologia, focado em backend Java.
+Estou em transição para a área de tecnologia, com foco no ecossistema Python.
 
-Atualmente participando de bootcamps e construindo projetos práticos com Spring Boot, APIs REST e banco de dados.
+Atualmente, participo de bootcamps focados em Python, Generative AI e análise de dados, construindo projetos práticos que envolvem desde APIs robustas até automação e integração com modelos de IA.
 
-Buscando minha primeira oportunidade como desenvolvedor backend.
+Buscando minha primeira oportunidade como desenvolvedor backend ou focado em soluções com Python.
 
 ---
 
 ## 🚀 Tecnologias e ferramentas
 
-- ☕ Java
-- 🌱 Spring Boot
+- 🐍 Python
+- 🔥 Django / Flask / FastAPI
+- 🤖 Generative AI & LLMs
+- 📊 Data Analysis (Pandas / NumPy)
 - 🗄️ SQL (MySQL / PostgreSQL)
-- 🧪 JUnit (testes)
+- 🧪 PyTest (testes)
 - 🔧 Git e GitHub
-- 📦 Maven
 
 ---
 
@@ -31,28 +32,28 @@ Buscando minha primeira oportunidade como desenvolvedor backend.
 
 🚧 Em construção...
 
-> Em breve você verá aqui APIs completas com:
-- CRUD completo
-- Integração com banco de dados
-- Validação de dados
-- Tratamento de exceções
-- Testes
+> Em breve você verá aqui projetos focados em:
+- APIs RESTful com Django/FastAPI
+- Automações e Scripts inteligentes
+- Integrações com IAs Generativas
+- Análise e manipulação de dados
+- Testes unitários e qualidade de código
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Java + Programação Orientada a Objetos
-- Spring Boot
-- APIs REST
+- Python + Programação Orientada a Objetos (POO)
+- Desenvolvimento Backend (Django & Flask)
+- Generative AI e Engenharia de Prompt
 - Banco de dados (SQL)
-- Testes automatizados (JUnit)
+- Bibliotecas para Ciência de Dados
 
 ---
 
 ## 🎯 Objetivo
 
-Conseguir minha primeira oportunidade como desenvolvedor backend Java e evoluir até atuar em projetos internacionais.
+Conseguir minha primeira oportunidade como desenvolvedor Python e evoluir para atuar em projetos globais de alta escala e inovação tecnológica.
 
 ---
 
